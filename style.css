@@ -1,0 +1,24 @@
+#main_header{
+    background-color: orange;
+}
+#heading{
+    color: aqua;
+}
+#note{
+    color:darkred;
+}
+#start{
+    color: greenyellow;
+}
+#me{
+    color: magenta;
+}
+body{
+background-color: blue;
+}
+#result_label{
+    color: goldenrod;
+}
+#result_confidence{
+    color: gold;
+}
